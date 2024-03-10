@@ -1,0 +1,93 @@
+h2 {
+  text-align: center;
+  width: 88%;
+  background-color: #ad1b02;
+  color: #fff;
+  border: 1px solid black;
+  position: relative;
+  display: inline-block;
+}
+
+.Level1 {
+  display: inline-block;
+  position: relative;
+  background-color: black;
+  color: white;
+  border-radius:5px;
+  height: 5vh;
+  margin-left: 70px;
+  right: 50px;
+}
+.lvl2 {
+  background-color: #d85604;
+  color: #fff;
+  border-radius:10px;
+  border:1px solid black;
+  position: relative;
+  border-radius: 10px;
+  height: 80px;
+  margin-right: 5px;
+  width: 100px;
+  vertical-align: middle;
+}
+
+.lv3 {
+  width: 10%;
+  float: left;
+}
+.lv4 {
+  position: relative;
+  top: 50px;
+  width: 10%;
+  float: left;
+}
+
+.lvl3 {
+  width: 100px;
+  margin-right: 5px;
+  margin-top: 20px;
+  border-radius: 10px;
+  border-radius:10px;
+  border: 1px solid black;
+  background-color: #e88d14;
+  color: #fff;
+  height: 80px;
+  vertical-align: middle;
+  text-align: center;
+
+}
+
+.lvl4 {
+  width: 100px;
+  margin-right: 5px;
+  margin-top: 10px;
+  border-radius: 10px;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #f3be26;
+  color: #fff;
+
+  height: 80px;
+  vertical-align: middle;
+  padding-left: 0;
+  cursor: pointer;
+}
+
+#l3 {
+  position: relative;
+  display: none;
+  left: 132px;
+  bottom: 25px;
+  width: 100%;
+  float: left;
+  
+}
+#l4 {
+  position: relative;
+  display: none;
+  left: 132px;
+  bottom: 25px;
+  width: 100%;
+  float: left;
+}
